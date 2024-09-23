@@ -1,0 +1,27 @@
+AnonID: 1000382193
+Marking TAs:
+    Correctness: Kushankur Ghosh
+    Submission Validity: Tianyu Zhang
+
+CMPUT 274, Fall 2023
+Marking Guidelines for Assignment #2 Huffman Coding
+==================================================
+** Correctness (total 90):
+
+    9/9 public test cases passed!
+    2/2 hidden test cases passed! (not for marks)
+
+    [Summary] 90.0/90 (11/11 passed)
+--------------------------------------------------
+** Submission Validity (total 10):
+
+    - README (deduct at most 10 marks)
+
+    [Summary] 10/10
+--------------------------------------------------
+** Late Penalty:
+
+    [Summary] 0
+--------------------------------------------------
+    [Total mark] 100.00/100
+==================================================
