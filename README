@@ -1,4 +1,2 @@
 Running instructions: In the terminal of the huffman directory, type "make test" to check test cases for compression and decompression. Type "make server" to create the webserver with the expected output - the webserver can be accessed through the url "http://localhost:8000".
 
-Notes and Assumptions:
-    Acknowledgements: Help received from person: Mohcene Maher
